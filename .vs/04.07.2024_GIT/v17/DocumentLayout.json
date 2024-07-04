@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0421#\\04.07.2024_GIT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B14D1381-48B2-44D5-AB6D-3132BEE62694}|04.07.2024_GIT.csproj|f:\\\u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441#\\04.07.2024_git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14D1381-48B2-44D5-AB6D-3132BEE62694}|04.07.2024_GIT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\\u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0421#\\04.07.2024_GIT\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\\u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0421#\\04.07.2024_GIT\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:26:33.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
